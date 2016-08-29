@@ -1,0 +1,9 @@
+"use strict";
+var express = require("express");
+function router() {
+    return express.Router();
+}
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = router;
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFBQSxJQUFZLE9BQU8sV0FBTSxTQUFTLENBQUMsQ0FBQTtBQUVuQztJQUNJLE1BQU0sQ0FBQyxPQUFPLENBQUMsTUFBTSxFQUFFLENBQUE7QUFDM0IsQ0FBQztBQUZEO3dCQUVDLENBQUEiLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgKiBhcyBleHByZXNzIGZyb20gXCJleHByZXNzXCI7XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIHJvdXRlcigpe1xuICAgIHJldHVybiBleHByZXNzLlJvdXRlcigpXG59Il0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
