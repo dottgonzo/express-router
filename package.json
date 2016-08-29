@@ -1,5 +1,5 @@
 {
-  "name": "express-router",
+  "name": "express-default-router",
   "version": "1.0.1",
   "description": "Express Router",
   "main": "index.js",
